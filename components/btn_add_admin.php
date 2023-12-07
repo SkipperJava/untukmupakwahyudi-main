@@ -1,0 +1,1 @@
+<a type="button" href="../layouts/add_admin.php"class="btn btn-primary">Tambah Admin</a>
